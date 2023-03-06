@@ -1,0 +1,17 @@
+.Context{
+    line-height: 2;
+}
+.roadmap img{
+    width: 100%;
+}
+.List li{
+    margin: 10px 0;
+}
+.List li:first-child:before{
+    content: "";
+}
+.List li:before{
+    content: '\25CF';
+    color: cornflowerblue;
+    margin-left: 10px;
+}

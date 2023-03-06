@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LOvUhtrEt1C4gIgdRf0nPScGlc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tarighat/Albums.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Webstorm\SoudAfarin" />
+      <recent name="C:\Webstorm\SoudAfarin\components" />
+      <recent name="C:\Webstorm\SoudAfarin\assets\font" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="" />
+      <created>1675754960687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675754960687</updated>
+      <workItem from="1675754962008" duration="16479000" />
+      <workItem from="1675864987660" duration="7172000" />
+      <workItem from="1675933264816" duration="9441000" />
+      <workItem from="1675944000104" duration="596000" />
+      <workItem from="1676183676080" duration="6722000" />
+      <workItem from="1676795084482" duration="33000" />
+      <workItem from="1676797166929" duration="18000" />
+      <workItem from="1676966108884" duration="17279000" />
+      <workItem from="1676990496824" duration="4189000" />
+      <workItem from="1677048784760" duration="11593000" />
+      <workItem from="1677132752589" duration="1067000" />
+      <workItem from="1677135854866" duration="7405000" />
+      <workItem from="1677150818955" duration="691000" />
+      <workItem from="1677404242694" duration="13288000" />
+      <workItem from="1677493293508" duration="2704000" />
+      <workItem from="1677568501022" duration="11184000" />
+      <workItem from="1677739358747" duration="9449000" />
+      <workItem from="1678002295255" duration="1597000" />
+      <workItem from="1678014677309" duration="5850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

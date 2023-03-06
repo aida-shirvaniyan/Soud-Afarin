@@ -1,0 +1,132 @@
+.Section{
+    background-color: #fbfbfb;
+}
+.Tabs{
+    position: sticky ;
+    top: 20px ;
+}
+.Tab{
+    border-radius: 15px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+    height: 60px;
+    line-height: 60px;
+    color: #3d5472;
+    padding-right: 20px;
+    font-family: IRANSansWeb_Medium !important;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: all ease 0.5s;
+}
+.Active{
+    background-color: var(--blue);
+    color: white;
+    transition: all ease 0.5s;
+}
+#FirstContent{
+    display: block;
+}
+#FirstContent img{
+    width: 100%;
+}
+#FirstContent p{
+    font-family: IRANSansWeb_Light !important;
+    margin: 20px 0;
+}
+#FirstContent h5{
+    margin: 20px 0;
+}
+#FirstContent h5:before{
+    content: '\25CF';
+    color: cornflowerblue;
+    margin-left: 5px;
+}
+#ThirdContent , #SecondContent{
+    display: none;
+}
+#FirstContent h3 , #SecondContent h3 ,#ThirdContent h3 {
+    margin: 30px 0;
+}
+.Expand{
+    margin-bottom: 10px;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+    border-radius:15px ;
+    overflow: hidden;
+}
+.accordion {
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    outline: none;
+    color: black;
+    transition: all ease 0.5s;
+    background: white;
+    transform: scale(1);
+    text-align: right;
+    font-size: 18px;
+}
+
+.accordionContent {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out;
+    background-color: white;
+}
+.accordionContent h5{
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #3d5472;
+}
+.accordionContent p{
+    font-family: IRANSansWeb_Light !important;
+    font-size: 15px;
+}
+.accordion:after{
+    position: absolute;
+    left: 20px;
+    font-size: 20px;
+    text-align: center;
+    content: "\002B";
+    color: black;
+}
+.active:after{
+    position: absolute;
+    left: 20px;
+    font-size: 20px;
+    text-align: center;
+    content: "\2212";
+    color: black;
+}
+
+.Files{
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+    border-radius: 15px;
+    width: 100%;
+    background-color: white;
+    height: 70px;
+    margin-top: 15px;
+    color: black;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Files p{
+    margin-bottom: 0;
+}
+.Files button{
+    background-color: var(--blue);
+    color: white;
+    border-radius: 7px;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    transform: scale(1);
+    transition: all ease 0.5s;
+}
+.Files button:active{
+    transform: scale(0.9);
+}

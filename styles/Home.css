@@ -1,0 +1,217 @@
+body{
+    background:linear-gradient(rgba(2, 30, 71 , 0.8), rgba(2, 30, 71 , 0.7)), url("../assets/Back.jpg") no-repeat fixed;
+    background-size: 100%;
+}
+.carousel-item {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    position: relative;
+}
+
+.SliderText-one, .SliderText-two {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.SliderText-one {
+    background-color: #f3f2f7;
+}
+
+.SliderText-two {
+    background-color: #edecf1;
+}
+
+.SliderImage-one img, .SliderImage-two img {
+    height: 100vh;
+    width: 100% !important;
+}
+
+.SliderImage-one, .SliderImage-two {
+    width: 50%;
+    position: relative;
+}
+.Slider_Context{
+    position: absolute;
+    width: 450px !important;
+    margin-top: 70px;
+    z-index: 900;
+}
+.Slider_Context p{
+    margin-top: 15px;
+    background-color: white;
+    padding: 10px 10px 10px 30px;
+    border-radius: 15px 15px 0 15px;
+}
+.SliderImage-one::after, .SliderImage-two::after {
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 0;
+    width: 70%;
+    height: 100%;
+    display: inline-block;
+    right: 0;
+}
+
+.SliderImage-one::after {
+    background: linear-gradient(to right, transparent 0%, #f3f2f7 100%);
+}
+
+.SliderImage-two::after {
+    background: linear-gradient(to right, transparent 0%, #edecf1 100%);
+}
+.Services {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    min-height: 500px;
+}
+
+.Services-items {
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.09) 0 2px 1px, rgba(0, 0, 0, 0.09) 0 4px 2px,
+    rgba(0, 0, 0, 0.09) 0 8px 4px, rgba(0, 0, 0, 0.09) 0 16px 8px,
+    rgba(0, 0, 0, 0.07) 0 32px 16px;
+    position: relative;
+    margin: 20px 0;
+    height: 320px;
+}
+
+.Services-items img {
+    width: 100%;
+    height: 320px;
+}
+
+.overlay {
+    height: 70px;
+    width: 100%;
+    transition: all ease 0.5s;
+    background-color: white;
+    bottom: 0;
+    position: absolute;
+    border-top-left-radius: 90%;
+    border-top-right-radius: 90%;
+    color: #212121;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    animation: glow infinite 1.5s ease;
+    box-shadow: 0 0 0 0 rgba(265 ,265 ,265, 1);
+
+}
+@keyframes glow {
+    0%{
+        box-shadow: 0 0 0 0 rgba(265 ,265 ,265, 0.7);
+    }
+    70%{
+        box-shadow: 0 0 3px 25px rgba(265 ,265 ,265, 0);
+    }
+    100%{
+        box-shadow: 0 0 0 0 rgba(265 ,265 ,265, 0);
+    }
+}
+.overlay h3 {
+    text-align: center;
+}
+
+.BlueButton {
+    border-radius: 7px;
+    color: white;
+    padding: 10px 15px;
+    background-color: cornflowerblue;
+    opacity: 0;
+    bottom: -40px;
+    transition: all ease 0.8s;
+    position: absolute;
+    transform: scale(1);
+}
+.BlueButton:active , .TransParent button:active{
+    transform: scale(1.2);
+}
+
+.Services-items:hover .overlay {
+    height: 320px;
+    border-radius: 0;
+    background-color: rgba(265, 265, 265, 0.7);
+    animation: none;
+}
+
+.Services-items:hover .overlay button{
+    bottom: 60px;
+    visibility: visible;
+    opacity: 1;
+}
+
+.TransParent{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background: transparent;
+}
+.TransParent button{
+    padding:15px 20px;
+    text-align: center;
+    border-radius: 7px;
+    color: #8db4f8;
+    background-color: transparent;
+    border: 2px solid rgb(141, 180, 248);
+    transform: scale(1.04);
+    margin-top: 30px;
+    transition: all ease 0.5s;
+}
+.TransParent button:hover{
+    background-color:rgba(141, 180, 248 ,0.2) ;
+}
+
+@media screen and (max-width: 900px) {
+
+    .carousel-item {
+        height: 600px;
+        margin-top: 100px;
+    }
+
+    .SliderText-one, .SliderText-two {
+        height: 600px;
+        width: 0;
+    }
+
+    .SliderImage-one , .SliderImage-two{
+        width: 100%;
+        height: 600px;
+    }
+
+    .Slider_Context {
+        margin-top: 0;
+        text-align: center;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .Slider_Context p {
+        border-radius: 20px;
+        padding: 10px;
+    }
+}
