@@ -122,6 +122,7 @@
     color: white;
     border-radius: 7px;
     padding: 10px 15px;
+    min-width: 100px;
     outline: none;
     border: none;
     transform: scale(1);

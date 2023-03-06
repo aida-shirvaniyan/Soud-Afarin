@@ -131,7 +131,7 @@ class Header extends HTMLElement {
   top: 15px;
   cursor: pointer;
   position:absolute;
-  right: 1rem;
+  right: 5px;
   display: none;
 }
 
@@ -144,15 +144,6 @@ class Header extends HTMLElement {
   background-color: #2d2d81;
 }
 
-.change .bar1 {
-  transform: translate(0, 11px) rotate(-45deg);
-}
-
-.change .bar2 {opacity: 0;}
-
-.change .bar3 {
-  transform: translate(0, -11px) rotate(45deg);
-}
 #Header_bottom{
     background-color: transparent;
     height: 70px;

@@ -185,12 +185,12 @@ body{
 @media screen and (max-width: 900px) {
 
     .carousel-item {
-        height: 600px;
+        height: 600px !important;
         margin-top: 100px;
     }
 
     .SliderText-one, .SliderText-two {
-        height: 600px;
+        height: 600px !important;
         width: 0;
     }
 

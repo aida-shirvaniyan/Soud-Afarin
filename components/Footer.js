@@ -14,7 +14,7 @@ class Footer extends HTMLElement {
                 <p class="Address">آدرس : تهران ، میدان ونک ، خیابان ملاصدرا ، بین خیابان خوارزمی و خیابان شیخ بهایی ، پلاک 232 طبقه
                     دوم </p>
             </div>
-            <div class="col-lg-4 footerColumn">
+            <div class="col-lg-4 col-md-4 col-10 footerColumn">
                 <img width="50px" src="assets/phone.png" alt="phone">
                 <h3>شماره تماس</h3>
                 <ul>
@@ -24,7 +24,7 @@ class Footer extends HTMLElement {
                     <li>soudafarin@soudafarin.ir</li>
                 </ul>
             </div>
-            <div class="col-lg-4 footerColumn">
+            <div class="col-lg-4 col-md-4  col-10 footerColumn">
                 <img width="50px" src="assets/link.png" alt="link">
                 <h3>پیوندهای مفید</h3>
                 <ul>
