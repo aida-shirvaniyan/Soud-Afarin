@@ -1,15 +1,17 @@
-.Section{
+.Section {
     background-color: #fbfbfb;
 }
-.Tabs{
-    position: sticky ;
-    top: 20px ;
+
+.Tabs {
+    position: sticky;
+    top: 20px;
 }
-.Tab{
+
+.Tab {
     border-radius: 15px;
     width: 100%;
     background-color: white;
-    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .15);
     height: 60px;
     line-height: 60px;
     color: #3d5472;
@@ -19,41 +21,51 @@
     cursor: pointer;
     transition: all ease 0.5s;
 }
-.Active{
+
+.Active {
     background-color: var(--blue);
     color: white;
     transition: all ease 0.5s;
 }
-#FirstContent{
+
+#FirstContent {
     display: block;
 }
-#FirstContent img{
+
+#FirstContent img {
     width: 100%;
 }
-#FirstContent p{
+
+#FirstContent p {
     font-family: IRANSansWeb_Light !important;
     margin: 20px 0;
 }
-#FirstContent h5{
+
+#FirstContent h5 {
     margin: 20px 0;
 }
-#FirstContent h5:before{
+
+#FirstContent h5:before {
     content: '\25CF';
     color: cornflowerblue;
     margin-left: 5px;
 }
-#ThirdContent , #SecondContent{
+
+#ThirdContent, #SecondContent {
     display: none;
 }
-#FirstContent h3 , #SecondContent h3 ,#ThirdContent h3 {
+
+#FirstContent h3, #SecondContent h3, #ThirdContent h3 {
     margin: 30px 0;
 }
-.Expand{
+
+.Expand {
     margin-bottom: 10px;
-    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
-    border-radius:15px ;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .15);
+    border-radius: 15px;
     overflow: hidden;
 }
+
 .accordion {
     cursor: pointer;
     padding: 18px;
@@ -75,16 +87,19 @@
     transition: max-height 0.5s ease-out;
     background-color: white;
 }
-.accordionContent h5{
+
+.accordionContent h5 {
     margin-bottom: 15px;
     font-size: 16px;
     color: #3d5472;
 }
-.accordionContent p{
+
+.accordionContent p {
     font-family: IRANSansWeb_Light !important;
     font-size: 15px;
 }
-.accordion:after{
+
+.accordion:after {
     position: absolute;
     left: 20px;
     font-size: 20px;
@@ -92,7 +107,8 @@
     content: "\002B";
     color: black;
 }
-.active:after{
+
+.active:after {
     position: absolute;
     left: 20px;
     font-size: 20px;
@@ -101,8 +117,8 @@
     color: black;
 }
 
-.Files{
-    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+.Files {
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .15);
     border-radius: 15px;
     width: 100%;
     background-color: white;
@@ -114,10 +130,12 @@
     align-items: center;
     justify-content: space-between;
 }
-.Files p{
+
+.Files p {
     margin-bottom: 0;
 }
-.Files button{
+
+.Files button {
     background-color: var(--blue);
     color: white;
     border-radius: 7px;
@@ -128,6 +146,17 @@
     transform: scale(1);
     transition: all ease 0.5s;
 }
-.Files button:active{
+
+.Files button:active {
     transform: scale(0.9);
+}
+
+@media screen and (max-width: 600px) {
+    .Files{
+        padding: 10px 20px;
+    }
+    .Files p {
+        font-size: 12px;
+        margin-left: 10px;
+    }
 }
