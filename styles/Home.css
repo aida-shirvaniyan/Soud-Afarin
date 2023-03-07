@@ -46,12 +46,12 @@ body{
 }
 .Slider_Context{
     position: absolute;
-    width: 450px ;
-    margin-top: 70px;
+    width: 500px ;
+    margin: 70px;
     z-index: 900;
 }
 .Slider_Context p{
-    margin-top: 15px;
+    margin-top: 35px;
     background-color: white;
     padding: 10px 10px 10px 30px;
     border-radius: 15px 15px 0 15px;
