@@ -20,7 +20,7 @@ class Sidebar extends HTMLElement {
                         </div>
                          <ul class="SubMenu">
                               <li><a href="./PortfolioManagement.html">معرفی سبدگردانی</a></li>
-                              <li><a href="">فرایند سرمایه گذاری در سبد</a></li>
+                              <li><a href="./investmentProcedure.html">فرایند سرمایه گذاری در سبد</a></li>
                               <li><a href="./investmentStage.html">مراحل سرمایه گذاری</a></li>
                               <li><a href="./Forms.html">دانلود فرم ها</a></li>
                               <li><a href="./information.html">منابع اطلاعاتی مورد استفاده سبدگردان </a></li>

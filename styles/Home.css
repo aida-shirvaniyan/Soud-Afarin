@@ -132,14 +132,19 @@ body{
 
 .BlueButton {
     border-radius: 7px;
-    color: white;
-    padding: 10px 15px;
     background-color: cornflowerblue;
     opacity: 0;
+    height: 50px;
+    padding: 0 20px;
     bottom: -40px;
     transition: all ease 0.8s;
     position: absolute;
     transform: scale(1);
+    color: white;
+}
+.BlueButton a , .BlueButton a:hover{
+    color: white;
+    text-decoration: none;
 }
 .BlueButton:active , .TransParent button:active{
     transform: scale(1.2);
