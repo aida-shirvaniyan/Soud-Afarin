@@ -35,6 +35,11 @@ class GoToTop extends HTMLElement {
     transition: background-color 0.4s ease-in-out;
     background-color: cornflowerblue;
 }
+@media screen and (max-width: 600px){
+    #myBtn{
+        right: 10px;
+    }
+}
 </style>
         `;
     }

@@ -35,12 +35,12 @@ class Footer extends HTMLElement {
         </div>
     </div>
     <div class="footerSince">
-        2023 &#169;
+        کلیه حقوق این سایت متعلق به شرکت سودآفرین می باشد
     </div>
 </footer>
 <style>
 .Footer{
-    background-color: #010129;
+    background-color: rgba(45,45,90,0.95);
     padding: 80px 0 30px;
 }
 .footerColumn{
@@ -56,11 +56,11 @@ class Footer extends HTMLElement {
     cursor: pointer;
 }
 .footerSince{
-    margin-top: 20px;
-    padding: 25px 0 0;
     text-align: center;
     color: white;
-    border-top: #1d133c 1px solid;
+    border-top: #7a85a7 1px solid;
+    margin: 20px 30px 0;
+    padding: 25px 0 0;
 }
 </style>
         `

@@ -2,7 +2,7 @@ function MobileMenu() {
     document.getElementById("Sidebar").style.right = "0"
 }
 function CloseMenu() {
-    document.getElementById("Sidebar").style.right = "-300px"
+    document.getElementById("Sidebar").style.right = "-350px"
 }
 let myButton = window.pageYOffset;
 window.onscroll = function() {
@@ -45,19 +45,6 @@ for (let i = 0; i < coll.length; i++) {
         }
     });
 }
-let Menu = document.getElementsByClassName("Menu");
-for (let j = 0; j < Menu.length; j++) {
-    Menu[j].addEventListener("click", function() {
-        console.log("hi")
-        let content = this.nextElementSibling;
-        if (content.style.maxHeight) {
-            content.style.maxHeight = null;
-        } else {
-            content.style.maxHeight = content.scrollHeight + "px";
-        }
-    });
-}
-
 let Btn = document.getElementsByClassName("show");
 for (let i = 0; i < Btn.length; i++) {
     Btn[i].addEventListener("click", function () {
@@ -72,5 +59,3 @@ for (let i = 0; i < Btn.length; i++) {
         }
     })
 }
-
-

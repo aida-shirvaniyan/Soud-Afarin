@@ -7,7 +7,7 @@ class Header extends HTMLElement {
         this.innerHTML = `
     <header id="Header">
     <div class="logo">
-        <img src="assets/logo.png" alt="logo">
+        <img src="assets/logo.svg" alt="logo">
     </div>
     <div class="Header-top">
     <div class="container">
@@ -36,22 +36,27 @@ class Header extends HTMLElement {
                          <i class="fa fa-angle-down"></i>
                          <ul class="submenu">
                               <li><a href="./PortfolioManagement.html">معرفی سبدگردانی</a></li>
-                              <li><a href="">فرایند سرمایه گذاری در سبد</a></li>
+                              <li><a href="./investmentProcedure.html">فرایند سرمایه گذاری در سبد</a></li>
                               <li><a href="./investmentStage.html">مراحل سرمایه گذاری</a></li>
                               <li><a href="./Forms.html">دانلود فرم ها</a></li>
-                              <li><a href="">سایر</a></li>
+                              <li class="SubmenuParent">
+                                    سایر
+                                    <i class="fa fa-angle-left"></i>
+                                    <ul class="Newsubmenu">
+                                        <li><a href="./information.html">منابع اطلاعاتی مورد استفاده سبدگردان </a></li>
+                                        <li><a href="./analysisMethods.html">روش های مورد استفاده در تجزیه و تحلیل</a></li>
+                                        <li><a href="./securitiesTypes.html">انواع اوراق بهادار تحت مدیریت در سبد های اختصاصی</a></li>
+                                        <li><a href="./securitiesAnalysis.html">روش های تحلیل اوراق بهادار و منابع تحلیل</a></li>
+                                        <li><a href="./conflictOfInterest.html"> کنترل تضاد منافع سبد گردان و مشتریان </a></li>
+                                        <li><a href="./aboutBasketManagement.html">درباره سبد گردانی اختصاصی</a></li>
+                                        <li><a href="./wage.html">کارمزد سبد گردان چقدر است </a></li>
+                                        <li><a href="./riskAssessment.html"> ارزیابی ریسک مشتریان</a></li>
+                                        <li><a href="./whySoudAfarin.html"> چرا سبد گردان سود آفرین </a></li>
+                                    </ul>
+                              </li>
                               </ul>
                      </li>
-                     <li class="parentmenu">
-                     تحلیل بازار سرمایه
-                     <i class="fa fa-angle-down"></i>
-                       <ul class="submenu">
-                       <li><a href="./information.html">منابع اطلاعاتی مورد استفاده سبدگردان </a></li>
-                       <li><a href="./analysisMethods.html">روش های مورد استفاده در تجزیه و تحلیل</a></li>
-                       <li><a href="./securitiesTypes.html">انواع اوراق بهادار تحت مدیریت در سبد های اختصاصی</a></li>
-                       <li><a href="./securitiesAnalysis.html">روش های تحلیل اوراق بهادار و منابع تحلیل</a></li>
-                       </ul>
-                     </li>
+                     <li><a href="./marketAnalysis.html">تحلیل بازار سرمایه</a></li>
                      <li class="parentmenu">
                          درباره سودآفرین
                          <i class="fas fa-angle-down"></i>
@@ -59,6 +64,7 @@ class Header extends HTMLElement {
                               <li><a href="./Team.html">تیم سبدگردان</a></li>
                               <li><a href="./introduce.html">معرفی سودآفرین</a></li>
                               <li><a href="./Board.html">هیئت مدیره</a></li>
+                              <li><a href="./licenses.html">مجوزها</a></li>
                          </ul>
                      </li>
                      <li><a href="#Connect">ارتباط با سودآفرین</a></li>
@@ -182,8 +188,10 @@ class Header extends HTMLElement {
 }
 .Newsubmenu{
     margin-right: 210px;
+    width: 320px;
+    margin-top: 100px;
 }
-.submenu li a {
+.submenu>li>a , .Newsubmenu li a ,.SubmenuParent{ 
     padding: 15px;
     transition: all linear 0.4s;
     font-size: small;
@@ -192,13 +200,13 @@ class Header extends HTMLElement {
     text-decoration: none;
     display: block;
 }
-.submenu li:first-child a , .Newsubmenu li:first-child a {
+.submenu>li:first-child>a , .Newsubmenu li:first-child a {
     border-radius: 15px 15px 0 0;
 }
-.submenu li:last-child a , .Newsubmenu li:last-child a{
+.submenu>li:last-child>a , .Newsubmenu li:last-child a , .SubmenuParent {
     border-radius: 0 0 15px 15px;
 }
-.submenu li a:hover{
+.submenu>li>a:hover, .Newsubmenu li a:hover , .SubmenuParent:hover{
     background-color: #e2eaff;
     color: #4e4e4e;
     text-decoration: none;
@@ -209,8 +217,9 @@ class Header extends HTMLElement {
     transform: scale(1) translateY(10px);
 }
 .SubmenuParent{
-display: flex;
-justify-content: space-between;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .logo{
     position: absolute;

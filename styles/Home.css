@@ -1,6 +1,6 @@
 body{
-    background:linear-gradient(rgba(2, 30, 71 , 0.8), rgba(2, 30, 71 , 0.7)), url("../assets/Back.jpg") no-repeat fixed;
-    background-size: 100%;
+    background:linear-gradient(rgba(23, 95, 200, 0.5), rgba(5, 61, 143, 0.3)), url("../assets/Back.jpg") no-repeat fixed;
+    background-size: 100% 100%;
 }
 .carousel-item {
     height: 100vh;
@@ -167,23 +167,24 @@ body{
     color: white;
     background: transparent;
 }
+
 .TransParent button{
     padding:15px 20px;
     text-align: center;
     border-radius: 7px;
-    color: #8db4f8;
+    color: white;
     background-color: transparent;
-    border: 2px solid rgb(141, 180, 248);
+    border: 2px solid white;
     transform: scale(1.04);
     margin-top: 30px;
     transition: all ease 0.5s;
 }
 .TransParent button:hover{
-    background-color:rgba(141, 180, 248 ,0.2) ;
+    background-color: white;
+    color: #6096B4;
 }
 
 @media screen and (max-width: 900px) {
-
     .carousel-item {
         height: 600px !important;
         margin-top: 100px;
@@ -216,10 +217,6 @@ body{
     }
 }
 @media screen and (max-width: 600px) {
-    body{
-        background:linear-gradient(rgba(2, 30, 71 , 0.8), rgba(2, 30, 71 , 0.7)), url("../assets/Back.jpg") no-repeat fixed;
-        background-size: 100% 100%;
-    }
     .Slider_Context {
         width: 350px;
     }
