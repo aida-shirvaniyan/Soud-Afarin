@@ -1,3 +1,9 @@
+#FirstItem{
+    display: block;
+}
+#SecondItem{
+    display: none;
+}
 .Items{
     padding: 25px 20px 0;
     background-color: white;
