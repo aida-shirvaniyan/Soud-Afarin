@@ -226,12 +226,23 @@ body{
         display: flex;
         justify-content: center;
         flex-direction: column;
+        animation: fade_up_res 2s ease;
     }
-
+    @keyframes fade_up_res {
+        0%{
+            opacity: 0;
+            transform:  translate(-50%, -10%);
+        }
+        100%{
+            opacity: 1;
+            transform: translate(-50%, -50%);
+        }
+    }
     .Slider_Context p {
         border-radius: 20px;
         padding: 10px;
     }
+
 }
 @media screen and (max-width: 600px) {
     .Slider_Context {

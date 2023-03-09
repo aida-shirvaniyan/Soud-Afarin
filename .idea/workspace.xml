@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/abstract-financial-freedom-still-life-arrangement.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/abstract-financial-freedom-still-life-arrangement.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/PortfolioManagement.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/PortfolioManagement.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/investmentStage.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/investmentStage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <workItem from="1678215239274" duration="214000" />
       <workItem from="1678215631378" duration="769000" />
       <workItem from="1678216993610" duration="626000" />
-      <workItem from="1678343560526" duration="3195000" />
+      <workItem from="1678343560526" duration="4671000" />
     </task>
     <servers />
   </component>
