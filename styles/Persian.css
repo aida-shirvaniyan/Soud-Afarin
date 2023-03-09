@@ -185,3 +185,12 @@ table {
 .SliderImage-two::after {
     background: linear-gradient(to right, transparent 0%, #dcecef 100%);
 }
+.accordion{
+    text-align: right;
+}
+.accordion:after {
+    left: 20px;
+}
+.active:after {
+    left: 20px;
+}

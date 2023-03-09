@@ -20,13 +20,13 @@ class Header extends HTMLElement {
                   <p>تحت نظارت سازمان بورس و اوراق بهادار</p>
               </div>
               <button class="Login">ورود سرمایه گذار</button>
-              <div class="menuContainer" onclick="MobileMenu(this)">
+        </div>
+        </div>
+        <div class="menuContainer" onclick="MobileMenu()">
                 <div class="bar1"></div>
                 <div class="bar2"></div>
                 <div class="bar3"></div>
               </div>
-        </div>
-        </div>
     </div>
     <div id="Header_bottom">
                  <ul class="menuList ">
@@ -133,7 +133,7 @@ class Header extends HTMLElement {
   top: 15px;
   cursor: pointer;
   position:absolute;
-  right: 5px;
+  right: 15px;
   display: none;
 }
 
@@ -283,7 +283,6 @@ class Header extends HTMLElement {
     font-size: 14px;
     margin-right: 10px;
 }
-
 }
 @media screen and (max-width: 1000px) {
 .Login{
@@ -298,7 +297,7 @@ class Header extends HTMLElement {
     justify-content: center;
 }
 .menuContainer{
-    display: inline-block;
+    display: inline;
 }
 .menuList{
     display: none;

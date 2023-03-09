@@ -20,6 +20,8 @@
     margin-bottom: 10px;
     cursor: pointer;
     transition: all ease 0.5s;
+    font-size: 15px;
+
 }
 
 .Active {
@@ -76,7 +78,6 @@
     transition: all ease 0.5s;
     background: white;
     transform: scale(1);
-    text-align: right;
     font-size: 18px;
 }
 
@@ -101,7 +102,6 @@
 
 .accordion:after {
     position: absolute;
-    left: 20px;
     font-size: 20px;
     text-align: center;
     content: "\002B";
@@ -110,7 +110,6 @@
 
 .active:after {
     position: absolute;
-    left: 20px;
     font-size: 20px;
     text-align: center;
     content: "\2212";
@@ -150,7 +149,6 @@
 .Files button:active {
     transform: scale(0.9);
 }
-
 @media screen and (max-width: 600px) {
     .Files{
         padding: 10px 20px;

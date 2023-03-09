@@ -141,3 +141,12 @@ table {
 .SliderImage-two::after {
     background: linear-gradient(to left, transparent 0%, #dcecef 100%);
 }
+.accordion{
+    text-align: left;
+}
+.accordion:after {
+    right: 20px;
+}
+.active:after {
+    right: 20px;
+}
