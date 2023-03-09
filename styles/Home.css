@@ -79,13 +79,6 @@ body{
     right: 0;
 }
 
-.SliderImage-one::after {
-    background: linear-gradient(to right, transparent 0%, #c2e3bd 90%);
-}
-
-.SliderImage-two::after {
-    background: linear-gradient(to right, transparent 0%, #dcecef 100%);
-}
 .Services {
     background-color: white;
     display: flex;
@@ -154,10 +147,12 @@ body{
     transform: scale(1);
     color: white;
 }
+
 .BlueButton a , .BlueButton a:hover{
     color: white;
     text-decoration: none;
 }
+
 .BlueButton:active , .TransParent button:active{
     transform: scale(1.2);
 }

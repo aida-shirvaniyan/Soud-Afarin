@@ -41,7 +41,7 @@ class Header extends HTMLElement {
                               <li><a href="./Forms.html">دانلود فرم ها</a></li>
                               <li class="SubmenuParent">
                                     سایر
-                                    <i class="fa fa-angle-left"></i>
+                                    <i class="fa fa-angle-up UpAngel"></i>
                                     <ul class="Newsubmenu">
                                         <li><a href="./information.html">منابع اطلاعاتی مورد استفاده سبدگردان </a></li>
                                         <li><a href="./analysisMethods.html">روش های مورد استفاده در تجزیه و تحلیل</a></li>
@@ -104,21 +104,17 @@ class Header extends HTMLElement {
 }
 .information>p{
     margin: 10px 0 0 0;
-    font-family: IRANSansWeb_Light;
+    font-family: IRANSansWeb_Light , Nunito-Light;
 }
 .phoneNumber{
     position: relative;
 }
 .phoneNumber p{
     display: inline-block;
-    font-family: IRANSansWebFaNum;
+    font-family: IRANSansWebFaNum , Nunito-Regular;
     margin-bottom: 0;
 }
-.phoneNumber img{
-    width: 22px;
-    left: 0;
-    position: absolute;
-}
+
 .Login{
     width: 120px;
     padding:0 15px;
@@ -187,9 +183,8 @@ class Header extends HTMLElement {
     transform: translateY(-50px);
 }
 .Newsubmenu{
-    margin:0 210px;
+    margin:100px 210px 0;
     width: 320px;
-    margin-top: 100px;
 }
 .submenu>li>a , .Newsubmenu li a ,.SubmenuParent{ 
     padding: 15px;

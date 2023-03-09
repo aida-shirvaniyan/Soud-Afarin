@@ -16,7 +16,7 @@
     line-height: 60px;
     color: #3d5472;
     padding:0 20px;
-    font-family: IRANSansWeb_Medium !important;
+    font-family: IRANSansWeb_Medium , Nunito-Medium !important;
     margin-bottom: 10px;
     cursor: pointer;
     transition: all ease 0.5s;
@@ -37,7 +37,7 @@
 }
 
 #FirstContent p {
-    font-family: IRANSansWeb_Light !important;
+    font-family: IRANSansWeb_Light , Nunito-Light !important;
     margin: 20px 0;
 }
 
@@ -95,7 +95,7 @@
 }
 
 .accordionContent p {
-    font-family: IRANSansWeb_Light !important;
+    font-family: IRANSansWeb_Light , Nunito-Light !important;
     font-size: 15px;
 }
 

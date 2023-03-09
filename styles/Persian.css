@@ -138,6 +138,7 @@ table {
     margin: 0;
     --blue: #7286D3;
     scroll-behavior: smooth;
+    direction: rtl;
 }
 ::selection{
     color: white;
@@ -168,4 +169,19 @@ table {
 }
 .Blue{
     color: #3695ca;
+}
+.phoneNumber img{
+    width: 22px;
+    left: 0;
+    position: absolute;
+}
+.UpAngel{
+    transform: rotate(-90deg);
+}
+.SliderImage-one::after {
+    background: linear-gradient(to right, transparent 0%, #c2e3bd 90%);
+}
+
+.SliderImage-two::after {
+    background: linear-gradient(to right, transparent 0%, #dcecef 100%);
 }

@@ -11,17 +11,17 @@
     margin-bottom: 50px;
 }
 .Paragraph{
-    font-family: IRANSansWeb_Light !important;
+    font-family: IRANSansWeb_Light , Nunito-Light !important;
     text-align: justify;
     line-height: 2;
     margin-bottom: 20px;
 }
 .Paragraph span{
     color: #57aede;
-    font-family: IRANSansWeb_Bold !important;
+    font-family: IRANSansWeb_Bold ,Nunito-Bold !important;
 }
 .titles{
-    font-family: IRANSansWeb_Bold !important;
+    font-family: IRANSansWeb_Bold ,Nunito-Bold !important;
     margin-bottom: 15px;
     color: #6096B4;
 }

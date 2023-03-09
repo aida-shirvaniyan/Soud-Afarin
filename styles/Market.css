@@ -21,18 +21,18 @@
     color: #3d5472;
     text-decoration: none;
     transition: all ease 0.5s;
-    font-family: IRANSansWeb_Bold !important;
+    font-family: IRANSansWeb_Bold , Nunito-Bold !important;
 }
 .itemHeader a:hover{
     color: #57aede;
 }
 .Date{
-    font-family: IRANSansWeb_Light !important;
+    font-family: IRANSansWeb_Light , Nunito-Light !important;
     color: #969494;
     font-size: small;
     margin-top: 15px;
 }
 .itemText{
-    font-family: IRANSansWeb_Light !important;
+    font-family: IRANSansWeb_Light , Nunito-Light !important;
     margin-bottom: 0;
 }

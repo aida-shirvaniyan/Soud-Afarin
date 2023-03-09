@@ -41,7 +41,7 @@
     background-color: white;
 }
 .HiddenPart p{
-    font-family: IRANSansWebFaNum !important;
+    font-family: IRANSansWebFaNum , Nunito-Regular !important;
     color: #666;
 }
 .HiddenPart h5{

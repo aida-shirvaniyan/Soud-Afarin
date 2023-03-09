@@ -15,7 +15,7 @@
     color: #7286D3;
 }
 .Person_info p{
-    font-family: IRANSansWeb_Light !important;
+    font-family: IRANSansWeb_Light , Nunito-Light !important;
     font-size: 14px;
     color: #888;
 }

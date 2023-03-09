@@ -46,7 +46,7 @@ class Footer extends HTMLElement {
 .footerColumn{
     color: white;
     text-align: center;
-    font-family: IRANSansWebFaNum !important;
+    font-family: IRANSansWebFaNum , Nunito-Regular !important;
 }
 .footerColumn h3{
     margin: 20px 0;
