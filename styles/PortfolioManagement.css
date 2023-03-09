@@ -15,7 +15,7 @@
     height: 60px;
     line-height: 60px;
     color: #3d5472;
-    padding-right: 20px;
+    padding:0 20px;
     font-family: IRANSansWeb_Medium !important;
     margin-bottom: 10px;
     cursor: pointer;
@@ -48,7 +48,7 @@
 #FirstContent h5:before {
     content: '\25CF';
     color: cornflowerblue;
-    margin-left: 5px;
+    margin:0 5px;
 }
 
 #ThirdContent, #SecondContent {

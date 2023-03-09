@@ -187,7 +187,7 @@ class Header extends HTMLElement {
     transform: translateY(-50px);
 }
 .Newsubmenu{
-    margin-right: 210px;
+    margin:0 210px;
     width: 320px;
     margin-top: 100px;
 }
@@ -224,7 +224,7 @@ class Header extends HTMLElement {
 .logo{
     position: absolute;
     background-color: #ffffff;
-    margin-right: 5%;
+    margin:0 5%;
     padding: 20px;
     border-radius: 0 0 0 20px;
 }

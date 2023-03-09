@@ -34,7 +34,7 @@
 .List li:before{
     content: '\25CF';
     color: cornflowerblue;
-    margin-left: 10px;
+    margin:0 10px;
 }
 .ImageContainer{
     border-radius: 15px;

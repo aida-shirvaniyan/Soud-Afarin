@@ -28,11 +28,11 @@ body{
 }
 
 .SliderText-one {
-    background-color: #f3f2f7;
+    background-color: #c2e3bd;
 }
 
 .SliderText-two {
-    background-color: #edecf1;
+    background-color: #dcecef;
 }
 
 .SliderImage-one img, .SliderImage-two img {
@@ -49,12 +49,24 @@ body{
     width: 500px ;
     margin: 70px;
     z-index: 900;
+    animation: fade_up 1s ease;
 }
 .Slider_Context p{
     margin-top: 35px;
     background-color: white;
-    padding: 10px 10px 10px 30px;
+    padding: 15px 15px 15px 30px;
     border-radius: 15px 15px 0 15px;
+    animation: fade_up 2s ease;
+}
+@keyframes fade_up {
+    0%{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
 }
 .SliderImage-one::after, .SliderImage-two::after {
     position: absolute;
@@ -68,11 +80,11 @@ body{
 }
 
 .SliderImage-one::after {
-    background: linear-gradient(to right, transparent 0%, #f3f2f7 100%);
+    background: linear-gradient(to right, transparent 0%, #c2e3bd 90%);
 }
 
 .SliderImage-two::after {
-    background: linear-gradient(to right, transparent 0%, #edecf1 100%);
+    background: linear-gradient(to right, transparent 0%, #dcecef 100%);
 }
 .Services {
     background-color: white;
