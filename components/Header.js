@@ -272,7 +272,20 @@ class Header extends HTMLElement {
 
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1300px) {
+.logo{
+    margin: 0 2%;
+}
+.logo img{
+    width: 160px;
+}
+.menuList>li{
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+}
+@media screen and (max-width: 1000px) {
 .Login{
     width: 90px;
     margin-top: 10px;
