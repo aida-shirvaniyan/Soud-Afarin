@@ -2,10 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Boat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/coin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/introduce.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/15694055_5623252.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/First.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/abstract-financial-freedom-still-life-arrangement.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/accounting.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/accounting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/archive.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/archive.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/businessman.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/businessman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/coin-stack-graph-table2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/council.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/council.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb_Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb_Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb_Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff2/IRANSansWeb_Black.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/insight.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/insight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/invest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/invest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/magnify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/man-cunting-stack-coins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/man-giving-business-presentation-using-high-technology-digital-pen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/office-desktop-with-stacked-coins1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/placeholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/planting-trees-coin-pile-with-sunlight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/roadmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/roadmap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/companyAnalysis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Market.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Market.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/PortfolioManagement.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/PortfolioManagement.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/introduce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Persian.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Persian.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tarighat/Albums.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../login-page/src/Styles/SignUp.module.css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -83,7 +112,11 @@
       <workItem from="1678215239274" duration="214000" />
       <workItem from="1678215631378" duration="769000" />
       <workItem from="1678216993610" duration="626000" />
-      <workItem from="1678343560526" duration="11494000" />
+      <workItem from="1678343560526" duration="11830000" />
+      <workItem from="1678521893688" duration="5701000" />
+      <workItem from="1678527989484" duration="5047000" />
+      <workItem from="1678539220655" duration="198000" />
+      <workItem from="1678539573207" duration="28000" />
     </task>
     <servers />
   </component>

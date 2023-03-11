@@ -147,14 +147,37 @@ body{
     transform: scale(1);
     color: white;
 }
-
+.Connection{
+    bottom: -40px;
+    position: absolute;
+    opacity: 0;
+    transition: all ease 0.8s;
+}
+.Connection input{
+    border: none;
+    outline: none;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    transition: all ease 0.5s;
+}
+.Connection input:focus{
+    box-shadow: 0 0 10px #9ed7f6;
+}
+.Connection button{
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+    transition: all ease 0.5s;
+    padding: 15px;
+}
 .BlueButton a , .BlueButton a:hover{
     color: white;
     text-decoration: none;
 }
 
-.BlueButton:active , .TransParent button:active{
-    transform: scale(1.2);
+.BlueButton:active , .TransParent button:active , .Connection button:active{
+    transform: scale(0.9);
 }
 
 .Services-items:hover .overlay {
@@ -164,9 +187,8 @@ body{
     animation: none;
 }
 
-.Services-items:hover .overlay button{
+.Services-items:hover .BlueButton , .Services-items:hover .Connection{
     bottom: 60px;
-    visibility: visible;
     opacity: 1;
 }
 

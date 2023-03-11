@@ -19,7 +19,7 @@ class Header extends HTMLElement {
                   </div>
                   <p>تحت نظارت سازمان بورس و اوراق بهادار</p>
               </div>
-              <button class="Login">ورود سرمایه گذار</button>
+              <a href="https://pm.soudafarin.ir/auth/login" target="_blank" class="Login">ورود سرمایه گذار</a>
         </div>
         </div>
         <div class="menuContainer" onclick="MobileMenu()">
@@ -115,11 +115,13 @@ class Header extends HTMLElement {
     margin-bottom: 0;
 }
 
-.Login{
+.Login , .Login:hover{
     width: 120px;
     padding:0 15px;
     height: 50px;
+    line-height: 50px;
     text-align: center;
+    text-decoration: none;
     border-radius: 7px;
     color: white;
     background-color: cornflowerblue;

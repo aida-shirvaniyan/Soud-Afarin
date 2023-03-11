@@ -1,0 +1,115 @@
+.Section{
+    color: #fbfbfb;
+}
+.row {
+    --bs-gutter-x: 0rem !important;
+}
+.CompanyInformation , .Side{
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .15);
+    border-radius: 10px;
+    width: 100%;
+    background-color: white;
+    padding: 25px 30px !important;
+    color: black;
+}
+.CompanyTitle{
+    margin-bottom: 50px;
+    font-family: IRANSansWeb_Bold , Nunito-Bold !important;
+}
+.CompanyInformation img{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.CompanyInformation h4{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.info{
+    font-family: Nunito-Light , IRANSansWeb_Light !important;
+    margin-bottom: 0;
+}
+.TableTitle{
+    margin-top: 30px;
+}
+.FormDivider{
+    height: 1px;
+    background-color: #e0e0e0;
+    margin: 50px 0;
+}
+.Form textarea{
+    width: 100%;
+    display: block;
+    background-color: #fafafa;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+    margin: 15px 0;
+    padding: 20px;
+    transition: all ease 0.5s;
+}
+.inputBox input{
+    width: 100%;
+    background-color: #fafafa;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+    padding: 15px;
+    margin: 10px 0;
+    transition: all ease 0.5s;
+}
+.inputBox{
+    padding: 0 5px !important;
+}
+.Form textarea:focus , .Form input:focus{
+    box-shadow: 0 0 10px #9ed7f6;
+}
+.FormSubmit{
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+    transition: all ease 0.5s;
+    padding: 10px 15px;
+    display: block;
+    margin-top:20px ;
+}
+.FormSubmit:active{
+    transform: scale(0.9);
+}
+.Side{
+    margin-bottom: 20px;
+}
+.Divider{
+    width: 80px;
+    height: 3px;
+    background-color: #57aede;
+    margin: 20px 0;
+}
+.ClassificationList li {
+    margin-bottom: 15px;
+}
+.LastNews li{
+    margin-bottom: 30px;
+}
+.ClassificationList li a , .LastNews Li a{
+    text-decoration: none;
+    color: black;
+    font-family: IRANSansWeb_Light , Nunito-Light !important;
+    transition: all ease 0.5s;
+}
+.ClassificationList li a:hover , .LastNews li a:hover{
+    color: #6096B4;
+}
+.LastNews li a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.LastNews li a img{
+    width: 30%;
+    border-radius: 10px;
+}
+.LastNews li a p{
+    width: 70%;
+    margin-bottom: 0;
+    padding-right: 10px;
+}
