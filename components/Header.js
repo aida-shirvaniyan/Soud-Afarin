@@ -12,7 +12,7 @@ class Header extends HTMLElement {
     <div class="Header-top">
     <div class="container">
         <div class="row justify-content-lg-end justify-content-center">
-             <div class="information col-lg-3 col-md-5 col-sm-7 col-7">
+             <div class="information col-lg-4 col-xl-3 col-md-6 col-sm-7 col-7">
                   <div class="phoneNumber">
                        <p>88035947 - (021)</p>
                        <img src="assets/phone.png" alt="phone">
@@ -288,8 +288,7 @@ class Header extends HTMLElement {
 }
 @media screen and (max-width: 1000px) {
 .Login{
-    width: 90px;
-    margin-top: 10px;
+    margin-top: 10px
     }
 .logo{
     top:70px;
@@ -304,6 +303,14 @@ class Header extends HTMLElement {
 .menuList{
     display: none;
 }
+}
+@media screen and (max-width: 760px){
+.Login{
+    width: 100px;
+    margin-top: 10px;
+    font-size: small;
+    padding:0 5px;
+    }
 }
 </style>
             `;
