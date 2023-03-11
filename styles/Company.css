@@ -2,7 +2,6 @@
     color: #fbfbfb;
 }
 .row {
-    --bs-gutter-x: 0rem !important;
 }
 .CompanyInformation , .Side{
     box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .15);
@@ -11,6 +10,7 @@
     background-color: white;
     padding: 25px 30px !important;
     color: black;
+    margin-bottom: 20px;
 }
 .CompanyTitle{
     margin-bottom: 50px;
@@ -111,5 +111,29 @@
 .LastNews li a p{
     width: 70%;
     margin-bottom: 0;
-    padding-right: 10px;
+    padding:0 10px;
+}
+
+@media screen and (max-width: 1200px) {
+    .LastNews li a{
+        flex-direction: column;
+    }
+    .LastNews li a img{
+        width: 100%;
+    }
+    .LastNews li a p{
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 760px) {
+    .LastNews li a{
+        flex-direction: row;
+    }
+    .LastNews li a img{
+        width: 30%;
+    }
+    .LastNews li a p{
+        width: 70%;
+    }
 }
