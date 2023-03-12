@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(rgba(23, 95, 200, 0.5), rgba(5, 61, 143, 0.3)), url("../assets/Back.jpg") no-repeat fixed;
+    background:linear-gradient(rgba(67, 114, 200, 0.3), rgba(90, 110, 134 , 0.5)), url("../assets/project-plan-table-workplace-executive-explaining.jpg") no-repeat fixed;
     background-size: 100% 100%;
 }
 .carousel-item {
@@ -28,7 +28,7 @@ body{
 }
 
 .SliderText-one {
-    background-color: #c2e3bd;
+    background-color: #def5f5;
 }
 
 .SliderText-two {
@@ -46,17 +46,23 @@ body{
 }
 .Slider_Context{
     position: absolute;
-    width: 500px ;
-    margin: 70px;
+    margin: 100px;
     z-index: 900;
     animation: fade_up 1s ease;
 }
+.Slider_Context h1{
+    font-family: IRANSansWeb_Bold , Nunito-Bold !important;
+    color: #212121;
+    text-shadow: 2px 2px 2px #a5a5a5;
+}
 .Slider_Context p{
+    max-width: 600px ;
     margin-top: 35px;
     background-color: white;
     padding: 15px 15px 15px 30px;
     border-radius: 15px 15px 0 15px;
     animation: fade_up 2s ease;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 @keyframes fade_up {
     0%{
@@ -137,7 +143,7 @@ body{
 
 .BlueButton {
     border-radius: 7px;
-    background-color: cornflowerblue;
+    background-color: #6495ed;
     opacity: 0;
     height: 50px;
     padding: 0 20px;
@@ -246,6 +252,7 @@ body{
         justify-content: center;
         flex-direction: column;
         animation: fade_up_res 2s ease;
+        width: 500px;
     }
     @keyframes fade_up_res {
         0%{
@@ -260,11 +267,15 @@ body{
     .Slider_Context p {
         border-radius: 20px;
         padding: 10px;
+        width: inherit;
     }
 
 }
 @media screen and (max-width: 600px) {
     .Slider_Context {
         width: 350px;
+    }
+    .Slider_Context p{
+        width: inherit;
     }
 }

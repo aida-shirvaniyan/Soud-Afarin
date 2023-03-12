@@ -135,7 +135,7 @@ table {
     transform: rotate(90deg);
 }
 .SliderImage-one::after {
-    background: linear-gradient(to left, transparent 0%, #c2e3bd 90%);
+    background: linear-gradient(to left, transparent 0%, #def5f5 90%);
 }
 
 .SliderImage-two::after {

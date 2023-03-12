@@ -40,7 +40,7 @@ class Footer extends HTMLElement {
 </footer>
 <style>
 .Footer{
-    background-color: rgba(45,45,90,0.95);
+    background-color: rgba(77,123,219,0.8);
     padding: 80px 0 30px;
 }
 .footerColumn{

@@ -23,15 +23,15 @@ class Sidebar extends HTMLElement {
                               <li><a href="./investmentProcedure.html">فرایند سرمایه گذاری در سبد</a></li>
                               <li><a href="./investmentStage.html">مراحل سرمایه گذاری</a></li>
                               <li><a href="./Forms.html">دانلود فرم ها</a></li>
-                              <li><a href="./information.html">منابع اطلاعاتی مورد استفاده سبدگردان </a></li>
-                              <li><a href="./analysisMethods.html">روش های مورد استفاده در تجزیه و تحلیل</a></li>
-                              <li><a href="./securitiesTypes.html">انواع اوراق بهادار تحت مدیریت در سبد های اختصاصی</a></li>
-                              <li><a href="./securitiesAnalysis.html">روش های تحلیل اوراق بهادار و منابع تحلیل</a></li>
-                              <li><a href="./conflictOfInterest.html"> کنترل تضاد منافع سبد گردان و مشتریان </a></li>
-                              <li><a href="./aboutBasketManagement.html">درباره سبد گردانی اختصاصی</a></li>
-                              <li><a href="./wage.html">کارمزد سبد گردان چقدر است </a></li>
-                              <li><a href="./riskAssessment.html"> ارزیابی ریسک مشتریان</a></li>
-                              <li><a href="./whySoudAfarin.html"> چرا سبد گردان سود آفرین </a></li>                        
+<!--                              <li><a href="./information.html">منابع اطلاعاتی مورد استفاده سبدگردان </a></li>-->
+<!--                              <li><a href="./analysisMethods.html">روش های مورد استفاده در تجزیه و تحلیل</a></li>-->
+<!--                              <li><a href="./securitiesTypes.html">انواع اوراق بهادار تحت مدیریت در سبد های اختصاصی</a></li>-->
+<!--                              <li><a href="./securitiesAnalysis.html">روش های تحلیل اوراق بهادار و منابع تحلیل</a></li>-->
+<!--                              <li><a href="./conflictOfInterest.html"> کنترل تضاد منافع سبد گردان و مشتریان </a></li>-->
+<!--                              <li><a href="./aboutBasketManagement.html">درباره سبد گردانی اختصاصی</a></li>-->
+<!--                              <li><a href="./wage.html">کارمزد سبد گردان چقدر است </a></li>-->
+<!--                              <li><a href="./riskAssessment.html"> ارزیابی ریسک مشتریان</a></li>-->
+<!--                              <li><a href="./whySoudAfarin.html"> چرا سبد گردان سود آفرین </a></li>                        -->
                          </ul>
                      </li>
                      <li><a href="./marketAnalysis.html" class="Menu">تحلیل بازار سرمایه</a></li>
