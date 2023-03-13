@@ -228,20 +228,23 @@ body{
 
 @media screen and (max-width: 900px) {
     .carousel-item {
-        height: 600px !important;
+        height: fit-content !important;
         margin-top: 100px;
     }
 
     .SliderText-one, .SliderText-two {
-        height: 600px !important;
+        height: fit-content !important;
         width: 0;
     }
 
-    .SliderImage-one , .SliderImage-two , .SliderImage-one img , .SliderImage-two img{
+    .SliderImage-one , .SliderImage-two{
         width: 100%;
-        height: 600px !important;
+        height: fit-content !important;
     }
-
+    .SliderImage-one img , .SliderImage-two img{
+        width: auto;
+        height: auto;
+    }
     .Slider_Context {
         margin: 0;
         text-align: center;
@@ -269,7 +272,9 @@ body{
         padding: 10px;
         width: inherit;
     }
-
+    .TransParent{
+        height: 400px;
+    }
 }
 @media screen and (max-width: 600px) {
     .Slider_Context {

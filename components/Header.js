@@ -11,8 +11,8 @@ class Header extends HTMLElement {
     </div>
     <div class="Header-top">
     <div class="container">
-        <div class="row justify-content-lg-end justify-content-center">
-             <div class="information col-lg-4 col-xl-3 col-md-6 col-sm-7 col-7">
+        <div class="row justify-content-lg-end justify-content-sm-center justify-content-end">
+             <div class="information col-lg-4 col-xl-3 col-md-6 col-sm-10 col-10">
                   <div class="phoneNumber">
                        <p>88035947 - (021)</p>
                        <img src="assets/phone.png" alt="phone">
@@ -287,9 +287,6 @@ class Header extends HTMLElement {
 }
 }
 @media screen and (max-width: 1000px) {
-.Login{
-    margin-top: 10px
-    }
 .logo{
     top:70px;
     margin:0;
@@ -300,17 +297,12 @@ class Header extends HTMLElement {
 .menuContainer{
     display: inline;
 }
+.Login{
+   display: none;
+ }
 .menuList{
     display: none;
 }
-}
-@media screen and (max-width: 760px){
-.Login{
-    width: 100px;
-    margin-top: 10px;
-    font-size: small;
-    padding:0 5px;
-    }
 }
 </style>
             `;

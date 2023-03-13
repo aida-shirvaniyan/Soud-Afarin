@@ -11,6 +11,7 @@ class Sidebar extends HTMLElement {
                 <div class="Bar2"></div>
                 <div class="Bar3"></div>
               </div>
+               <a href="https://pm.soudafarin.ir/auth/login" class="LoginSidebar" target="_blank">ورود سرمایه گذار</a>
                 <ul>
                      <li><a class="Menu" href="./index.html">صفحه اصلی</a></li>
                      <li>
@@ -85,6 +86,26 @@ class Sidebar extends HTMLElement {
             }
             .Bar3{
              transform: translate(0, -11px) rotate(45deg);
+            }
+            .LoginSidebar , .LoginSidebar:hover{
+                width: 120px;
+                padding:0 15px;
+                top: 10px;
+                left: 15px;
+                height: 40px;
+                line-height: 40px;
+                text-align: center;
+                font-size: small;
+                text-decoration: none;
+                border-radius: 7px;
+                color: white;
+                background-color: cornflowerblue;
+                transform: scale(1);
+                transition: all ease 0.5s;
+                position:absolute;
+            }
+            .LoginSidebar:active{
+                transform: scale(1.1);
             }
              #Sidebar ul{
                 padding: 20px;
