@@ -59,33 +59,33 @@ table {
     font-family: Nunito-Bold;
     font-style: normal;
     font-weight: bold;
-    src: url('../assets/font/Nunito/Nunito-Bold.ttf') format('truetype');
+    src: url('../assets-list/font/Nunito/Nunito-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: Nunito-Medium;
     font-style: normal;
     font-weight: 600;
-    src: url('../assets/font/Nunito/Nunito-Medium.ttf') format('truetype');
+    src: url('../assets-list/font/Nunito/Nunito-Medium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: Nunito-Light;
     font-style: normal;
     font-weight: 300;
-    src: url('../assets/font/Nunito/Nunito-Light.ttf') format('truetype');
+    src: url('../assets-list/font/Nunito/Nunito-Light.ttf') format('truetype');
 }
 
 @font-face {
     font-family: Nunito-Regular;
     font-weight: normal;
-    src: url('../assets/font/Nunito/Nunito-Regular.ttf') format('truetype');
+    src: url('../assets-list/font/Nunito/Nunito-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: Nunito-SemiBold;
     font-weight: normal;
-    src: url('../assets/font/Nunito/Nunito-SemiBold.ttf') format('truetype');
+    src: url('../assets-list/font/Nunito/Nunito-SemiBold.ttf') format('truetype');
 }
 
 *{

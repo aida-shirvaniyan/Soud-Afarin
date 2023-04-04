@@ -2,13 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/Board.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Forms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioManagement.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutBasketManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutBasketManagement.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysisMethods.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysisMethods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Abas_Ebrahimi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Abas_Ebrahimi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Boat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Boat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/FJRJ4NjacAAOgTQ-300x166.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/FJRJ4NjacAAOgTQ-300x166.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/First.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/First.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Hadi_Lari.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Hadi_Lari.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Khalil_Saremi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Khalil_Saremi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/License.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/License.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Market.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Market.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Market2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Market2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Tabl3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Tabl3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Table2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Table2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Table4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Table4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Table5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/Table5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/accounting.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/accounting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/archive.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/archive.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap-5.0.2-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/businessman.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/businessman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/chart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/coins-glass-jar-with-copy-space.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/coins-glass-jar-with-copy-space.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/council.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/council.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/Nunito/Nunito-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/Nunito/Nunito-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/Nunito/Nunito-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/Nunito/Nunito-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/Nunito/Nunito-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/Nunito/Nunito-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/Nunito/Nunito-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/Nunito/Nunito-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/Nunito/Nunito-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/Nunito/Nunito-SemiBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb(FaNum).eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb(FaNum).eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb(FaNum)_Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb(FaNum)_Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb(FaNum)_Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb(FaNum)_Medium.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb_Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb_Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb_Light.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb_Light.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb_Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb_Medium.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/eot/IRANSansWeb_UltraLight.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/eot/IRANSansWeb_UltraLight.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb(FaNum).ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb(FaNum).ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb(FaNum)_Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb(FaNum)_Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb(FaNum)_Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb(FaNum)_Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb_Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb_Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb_Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb_Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb_Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb_Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/ttf/IRANSansWeb_UltraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/ttf/IRANSansWeb_UltraLight.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb(FaNum).woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb(FaNum).woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb(FaNum)_Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb(FaNum)_Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb(FaNum)_Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb(FaNum)_Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb_Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb_Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb_Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb_Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb_Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb_Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff/IRANSansWeb_UltraLight.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff/IRANSansWeb_UltraLight.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff2/IRANSansWeb.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff2/IRANSansWeb.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff2/IRANSansWeb_Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff2/IRANSansWeb_Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff2/IRANSansWeb_Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff2/IRANSansWeb_Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff2/IRANSansWeb_Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff2/IRANSansWeb_Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/iransans/woff2/IRANSansWeb_UltraLight.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/font/iransans/woff2/IRANSansWeb_UltraLight.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/insight.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/insight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/introduce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/introduce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/invest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/invest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/link.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/link.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/market3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/market3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/market4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/market4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/placeholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/project-plan-table-workplace-executive-explaining.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/project-plan-table-workplace-executive-explaining.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/roadmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/roadmap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/table.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/table.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/companyAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/companyAnalysis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conflictOfInterest.html" beforeDir="false" afterPath="$PROJECT_DIR$/conflictOfInterest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -21,6 +131,16 @@
       <change beforePath="$PROJECT_DIR$/riskAssessment.html" beforeDir="false" afterPath="$PROJECT_DIR$/riskAssessment.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/securitiesAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesAnalysis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/securitiesTypes.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesTypes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Board.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Board.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Company.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Company.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/English.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/English.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Market.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Market.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Persian.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Persian.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/PortfolioManagement.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/PortfolioManagement.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Team.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/investmentStage.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/investmentStage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/other.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/other.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wage.html" beforeDir="false" afterPath="$PROJECT_DIR$/wage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/whySoudAfarin.html" beforeDir="false" afterPath="$PROJECT_DIR$/whySoudAfarin.html" afterDir="false" />
     </list>
@@ -113,7 +233,7 @@
       <workItem from="1678610592904" duration="1401000" />
       <workItem from="1678704198102" duration="2397000" />
       <workItem from="1678777175708" duration="687000" />
-      <workItem from="1680591116666" duration="539000" />
+      <workItem from="1680591116666" duration="955000" />
     </task>
     <servers />
   </component>

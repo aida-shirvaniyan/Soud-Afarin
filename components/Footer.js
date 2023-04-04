@@ -9,13 +9,13 @@ class Footer extends HTMLElement {
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-4 footerColumn">
-                <img width="50px" src="assets/placeholder.png" alt="address">
+                <img width="50px" src="assets-list/placeholder.png" alt="address">
                 <h3>آدرس</h3>
                 <p class="Address">آدرس : تهران ، میدان ونک ، خیابان ملاصدرا ، بین خیابان خوارزمی و خیابان شیخ بهایی ، پلاک 232 طبقه
                     دوم </p>
             </div>
             <div class="col-lg-4 col-md-4 col-10 footerColumn">
-                <img width="50px" src="assets/phone.png" alt="phone">
+                <img width="50px" src="assets-list/phone.png" alt="phone">
                 <h3>شماره تماس</h3>
                 <ul>
                     <li>02188691365</li>
@@ -25,7 +25,7 @@ class Footer extends HTMLElement {
                 </ul>
             </div>
             <div class="col-lg-4 col-md-4  col-10 footerColumn">
-                <img width="50px" src="assets/link.png" alt="link">
+                <img width="50px" src="assets-list/link.png" alt="link">
                 <h3>پیوندهای مفید</h3>
                 <ul>
                     <li>قوانین و مقررات</li>
@@ -58,7 +58,7 @@ class Footer extends HTMLElement {
 .footerSince{
     text-align: center;
     color: white;
-    border-top: #7a85a7 1px solid;
+    border-top: #b6c1e5 1px solid;
     margin: 20px 30px 0;
     padding: 25px 0 0;
 }

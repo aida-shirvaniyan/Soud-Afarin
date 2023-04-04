@@ -7,7 +7,7 @@ class Header extends HTMLElement {
         this.innerHTML = `
     <header id="Header">
     <div class="logo">
-        <img src="assets/logo.svg" alt="logo">
+        <img src="assets-list/logo.svg" alt="logo">
     </div>
     <div class="Header-top">
     <div class="container">
@@ -15,7 +15,7 @@ class Header extends HTMLElement {
              <div class="information col-lg-4 col-xl-3 col-md-6 col-sm-10 col-10">
                   <div class="phoneNumber">
                        <p>88035947 - (021)</p>
-                       <img src="assets/phone.png" alt="phone">
+                       <img src="assets-list/phone.png" alt="phone">
                   </div>
                   <p>تحت نظارت سازمان بورس و اوراق بهادار</p>
               </div>
