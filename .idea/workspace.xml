@@ -3,9 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/Board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutBasketManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutBasketManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysisMethods.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysisMethods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/companyAnalysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conflictOfInterest.html" beforeDir="false" afterPath="$PROJECT_DIR$/conflictOfInterest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/information.html" beforeDir="false" afterPath="$PROJECT_DIR$/information.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/introduce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/investmentProcedure.html" beforeDir="false" afterPath="$PROJECT_DIR$/investmentProcedure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/investmentStage.html" beforeDir="false" afterPath="$PROJECT_DIR$/investmentStage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/licenses.html" beforeDir="false" afterPath="$PROJECT_DIR$/licenses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/marketAnalysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/riskAssessment.html" beforeDir="false" afterPath="$PROJECT_DIR$/riskAssessment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securitiesAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesAnalysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securitiesTypes.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesTypes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wage.html" beforeDir="false" afterPath="$PROJECT_DIR$/wage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whySoudAfarin.html" beforeDir="false" afterPath="$PROJECT_DIR$/whySoudAfarin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +111,9 @@
       <workItem from="1678562166370" duration="770000" />
       <workItem from="1678600567289" duration="7158000" />
       <workItem from="1678610592904" duration="1401000" />
-      <workItem from="1678704198102" duration="1519000" />
+      <workItem from="1678704198102" duration="2397000" />
+      <workItem from="1678777175708" duration="687000" />
+      <workItem from="1680591116666" duration="539000" />
     </task>
     <servers />
   </component>
