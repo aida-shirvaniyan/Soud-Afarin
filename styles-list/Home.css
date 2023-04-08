@@ -18,7 +18,7 @@ body{
     position: relative;
 }
 
-.SliderText-one, .SliderText-two {
+.SliderText {
     width: 50%;
     height: 100vh;
     display: flex;
@@ -27,54 +27,58 @@ body{
     flex-direction: column;
 }
 
-.SliderText-one {
-    background-color: #def5f5;
-}
-
-.SliderText-two {
+.SliderText {
     background-color: #dcecef;
 }
 
-.SliderImage-one img, .SliderImage-two img {
+.SliderImage img, .SliderImage img {
     height: 100vh;
     width: 100% !important;
 }
 
-.SliderImage-one, .SliderImage-two {
+.SliderImage, .SliderImage {
     width: 50%;
     position: relative;
 }
 .Slider_Context{
     position: absolute;
-    margin: 100px;
+    margin: -50px 100px 100px;
     z-index: 900;
-    animation: fade_up 1s ease;
 }
 .Slider_Context h1{
     font-family: IRANSansWeb_Bold , Nunito-Bold !important;
     color: #212121;
     text-shadow: 2px 2px 2px #a5a5a5;
 }
-.Slider_Context p{
-    max-width: 600px ;
+.Slider_Context div{
+    width: 600px ;
     margin-top: 35px;
-    background-color: white;
-    padding: 15px 15px 15px 30px;
-    border-radius: 15px 15px 0 15px;
-    animation: fade_up 2s ease;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    background-image: linear-gradient(to left , rgb(256 , 256 , 256) 0 , rgba(256 , 256, 256 , 0)100% ) ;
+    padding: 0 15px 0 30px;
+    border-right: 6px solid #041c60;
+    overflow: hidden;
+    border-radius: 0 34px 34px 0;
+    animation: grow 2s ease-in-out;
+    position: absolute;
+    min-height: 110px;
+    display: flex;
+    align-items: center;
 }
-@keyframes fade_up {
+.Slider_Context div p{
+    position: absolute;
+    width: 600px;
+    line-height: 2;
+    margin-bottom: 0;
+}
+@keyframes grow {
     0%{
-        opacity: 0;
-        transform: translateY(50px);
+        max-width: 0;
     }
     100%{
-        opacity: 1;
-        transform: translateY(0px);
+        max-width: 600px;
     }
 }
-.SliderImage-one::after, .SliderImage-two::after {
+.SliderImage::after{
     position: absolute;
     content: '';
     left: 0;
@@ -232,16 +236,16 @@ body{
         margin-top: 100px;
     }
 
-    .SliderText-one, .SliderText-two {
+    .SliderText{
         height: fit-content !important;
         width: 0;
     }
 
-    .SliderImage-one , .SliderImage-two{
+    .SliderImage{
         width: 100%;
         height: fit-content !important;
     }
-    .SliderImage-one img , .SliderImage-two img{
+    .SliderImage img {
         width: auto;
         height: auto;
     }
@@ -251,36 +255,48 @@ body{
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        animation: fade_up_res 2s ease;
         width: 500px;
+        margin-top: -100px;
     }
-    @keyframes fade_up_res {
+    .Slider_Context div{
+        width: 500px;
+        animation: grow_res_md 2s ease-in-out;
+        padding: 10px;
+    }
+    .Slider_Context div p{
+        width: 455px;
+    }
+    @keyframes grow_res_md {
         0%{
-            opacity: 0;
-            transform:  translate(-50%, -10%);
+            width: 0;
         }
         100%{
-            opacity: 1;
-            transform: translate(-50%, -50%);
+            width: 500px;
         }
     }
-    .Slider_Context p {
-        border-radius: 20px;
-        padding: 10px;
-        width: inherit;
-    }
     .TransParent{
-        height: 400px;
+        height: 355px;
     }
 }
 @media screen and (max-width: 600px) {
     .Slider_Context {
         width: 350px;
     }
-    .Slider_Context p{
-        width: inherit;
+    .Slider_Context div{
+        width: 350px;
+        animation: grow_res_sm 2s ease-in-out;
+        padding: 10px;
+        height: 150px;
+    }
+    .Slider_Context div p{
+        width: 305px;
+    }
+    @keyframes grow_res_sm {
+        0%{
+            width: 0;
+        }
+        100%{
+            width: 350px;
+        }
     }
 }
