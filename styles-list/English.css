@@ -138,6 +138,11 @@ table {
 .SliderImage::after {
     background: linear-gradient(to left, transparent 0%, #dcecef 100%);
 }
+
+.Slider_Context div{
+    background-image: linear-gradient(to right , rgb(256 , 256 , 256) 80%  , rgba(256 , 256, 256 , 0.5) , rgba(256 , 256, 256 , 0)) ;
+}
+
 .accordion{
     text-align: left;
 }

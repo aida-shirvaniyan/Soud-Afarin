@@ -2,85 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets-list/fontawesome/v4-shims.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/Board.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioManagement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutBasketManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutBasketManagement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysisMethods.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysisMethods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-list/bootstrap-5.0.2-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets-list/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/companyAnalysis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conflictOfInterest.html" beforeDir="false" afterPath="$PROJECT_DIR$/conflictOfInterest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information.html" beforeDir="false" afterPath="$PROJECT_DIR$/information.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/introduce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/investmentProcedure.html" beforeDir="false" afterPath="$PROJECT_DIR$/investmentProcedure.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/investmentStage.html" beforeDir="false" afterPath="$PROJECT_DIR$/investmentStage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/licenses.html" beforeDir="false" afterPath="$PROJECT_DIR$/licenses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marketAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/marketAnalysis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/riskAssessment.html" beforeDir="false" afterPath="$PROJECT_DIR$/riskAssessment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitiesAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesAnalysis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitiesTypes.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesTypes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles-list/English.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/English.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles-list/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles-list/Persian.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Persian.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wage.html" beforeDir="false" afterPath="$PROJECT_DIR$/wage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whySoudAfarin.html" beforeDir="false" afterPath="$PROJECT_DIR$/whySoudAfarin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +105,8 @@
       <workItem from="1680591116666" duration="1178000" />
       <workItem from="1680593807631" duration="354000" />
       <workItem from="1680766228596" duration="6517000" />
-      <workItem from="1680941449250" duration="7440000" />
+      <workItem from="1680941449250" duration="7692000" />
+      <workItem from="1681025423259" duration="682000" />
     </task>
     <servers />
   </component>
