@@ -1,0 +1,348 @@
+/*Header style*/
+
+#Header{
+    height: 140px;
+    position: absolute;
+    top:0;
+    z-index: 60;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.Header-top{
+    background: white;
+    display: flex;
+    align-items: center;
+    height: 70px;
+    font-size: small;
+}
+.information{
+    margin: 0 20px;
+    justify-content: start;
+    display: flex;
+    flex-direction: column;
+}
+.information>p{
+    margin: 10px 0 0 0;
+    font-family: IRANSansWeb_Light , Nunito-Light;
+}
+.phoneNumber{
+    position: relative;
+}
+.phoneNumber p{
+    display: inline-block;
+    font-family: IRANSansWebFaNum , Nunito-Regular;
+    margin-bottom: 0;
+}
+
+.Login , .Login:hover{
+    width: 120px !important;
+    padding:0 15px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 7px;
+    color: white;
+    background-color: cornflowerblue;
+    transform: scale(1);
+    transition: all ease 0.5s;
+}
+.Login:active{
+    transform: scale(1.1);
+}
+.menuContainer {
+    top: 15px;
+    cursor: pointer;
+    position:absolute;
+    right: 15px;
+    display: none;
+}
+
+.bar1, .bar2, .bar3 {
+    border-radius: 25px;
+    width: 30px;
+    height: 5px;
+    margin: 6px 0;
+    transition: 0.4s;
+    background-color: #2d2d81;
+}
+
+#Header_bottom{
+    background-color: transparent;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menuList>li{
+    display: inline-block;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: all ease 0.5s;
+}
+.menuList>li>i{
+    font-size: small;
+    margin-right: 3px;
+}
+.menuList>li a{
+    color: black;
+    text-decoration: none;
+    transition: all ease 0.5s;
+}
+.menuList>li a:hover , .menuList>li:hover{
+    color: cornflowerblue;
+}
+.submenu , .Newsubmenu{
+    border-radius: 15px;
+    position: absolute;
+    background-color: white;
+    opacity: 0;
+    visibility: hidden;
+    transition: all ease 1s;
+    width: 220px;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+    transform: translateY(-50px);
+}
+.Newsubmenu{
+    margin:100px 210px 0;
+    width: 320px;
+}
+.submenu>li>a , .Newsubmenu li a ,.SubmenuParent{
+    padding: 15px;
+    transition: all linear 0.4s;
+    font-size: small;
+    color: #4e4e4e;
+    border-bottom: 3px solid transparent;
+    text-decoration: none;
+    display: block;
+}
+.submenu>li:first-child>a , .Newsubmenu li:first-child a {
+    border-radius: 15px 15px 0 0;
+}
+.submenu>li:last-child>a , .Newsubmenu li:last-child a , .SubmenuParent {
+    border-radius: 0 0 15px 15px;
+}
+.submenu>li>a:hover, .Newsubmenu li a:hover , .SubmenuParent:hover{
+    background-color: #e2eaff;
+    color: #4e4e4e;
+    text-decoration: none;
+}
+.parentmenu:hover .submenu , .SubmenuParent:hover  .Newsubmenu{
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1) translateY(10px);
+}
+.SubmenuParent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    position: absolute;
+    background-color: #ffffff;
+    margin:0 5%;
+    padding: 20px;
+    border-radius: 0 0 0 20px;
+}
+.logo img{
+    width: 200px;
+}
+
+
+/*Header style*/
+
+/*Footer style*/
+.Footer{
+    background-color: rgba(77,123,219,0.8);
+    padding: 80px 0 30px;
+}
+.footerColumn{
+    color: white;
+    text-align: center;
+    font-family: IRANSansWebFaNum , Nunito-Regular !important;
+}
+.footerColumn h3{
+    margin: 20px 0;
+}
+.footerColumn ul li{
+    margin-top: 15px;
+    cursor: pointer;
+}
+.footerSince{
+    text-align: center;
+    color: white;
+    border-top: #b6c1e5 1px solid;
+    margin: 20px 30px 0;
+    padding: 25px 0 0;
+}
+/*Footer style*/
+
+/*Sidebar style*/
+#Sidebar{
+    background-color: rgba(1,1,43,0.85);
+    height: 100%;
+    width: 350px;
+    position:fixed;
+    color: white;
+    z-index: 1000;
+    right: -350px;
+    top: 0;
+    transition: all ease 0.5s;
+    display: none;
+    overflow-y: scroll;
+}
+.Close {
+    margin: 15px;
+    cursor: pointer;
+}
+
+.Bar1, .Bar2  , .Bar3{
+    border-radius: 25px;
+    width: 30px;
+    height: 5px;
+    margin: 6px 0;
+    transition: 0.4s;
+    background-color: white;
+}
+.Bar1{
+    transform: translate(0, 11px) rotate(-45deg);
+}
+.Bar2{
+    opacity: 0;
+}
+.Bar3{
+    transform: translate(0, -11px) rotate(45deg);
+}
+.LoginSidebar , .LoginSidebar:hover{
+    width: 120px;
+    padding:0 15px;
+    top: 10px;
+    left: 15px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: small;
+    text-decoration: none;
+    border-radius: 7px;
+    color: white;
+    background-color: cornflowerblue;
+    transform: scale(1);
+    transition: all ease 0.5s;
+    position:absolute;
+}
+.LoginSidebar:active{
+    transform: scale(1.1);
+}
+#Sidebar ul{
+    padding: 20px;
+}
+.Menu{
+    padding: 15px;
+    cursor: pointer;
+    display: block;
+    transition: all ease 0.5s;
+    position: relative;
+    text-decoration: none;
+    color: white;
+
+}
+.Menu:hover , .SubMenu li a:hover{
+    background-color: rgba(114 , 134 , 211 ,0.85);
+    text-decoration: none;
+    color: white;
+}
+.Menu i{
+    transition: all ease 0.5s;
+    position: absolute;
+    font-size: small;
+    margin:5px 3px 0 0;
+    left: 15px;
+}
+.SubMenu{
+    transition: all 0.5s ease-out;
+    max-height: 0;
+    overflow: hidden;
+    background-color: rgba(1,1,45,0.85);
+}
+.SubMenu li a{
+    padding:15px 25px;
+    display: block;
+    color: white;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    font-size: 14px;
+}
+
+/*Sidebar style*/
+
+/*Go to top button style*/
+#myBtn {
+    position: fixed;
+    right: 60px;
+    border-radius: 50%;
+    z-index: 99;
+    opacity: 0;
+    width: 50px;
+    height: 50px;
+    background-color: #8db4f8;
+    color: white;
+    bottom: 120px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    box-shadow: 0 0 15px 0 rgba(172,198,221,0.5);
+}
+
+.GoTopicon {
+    font-size: large;
+    color: white;
+}
+
+#myBtn:hover {
+    transition: background-color 0.4s ease-in-out;
+    background-color: cornflowerblue;
+}
+/*Go to top button style*/
+
+@media screen and (max-width: 1300px) {
+    .logo{
+        margin: 0 2%;
+    }
+    .logo img{
+        width: 160px;
+    }
+    .menuList>li{
+        font-size: 14px;
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .logo{
+        top:70px;
+        margin:0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .menuContainer{
+        display: inline;
+    }
+    .Login{
+        display: none;
+    }
+    .menuList{
+        display: none;
+    }
+}
+@media screen and (max-width: 900px) {
+    #Sidebar{
+        display: block;
+    }
+}
+@media screen and (max-width: 600px){
+    #myBtn{
+        right: 10px;
+    }
+}
+

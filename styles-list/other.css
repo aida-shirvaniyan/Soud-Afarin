@@ -1,42 +1,51 @@
-.Section{
+.Section {
     background-color: #fbfbfb;
 }
-.introducePic{
+
+.introducePic {
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.09) 0 2px 1px, rgba(0, 0, 0, 0.09) 0 4px 2px,
     rgba(0, 0, 0, 0.09) 0 8px 4px, rgba(0, 0, 0, 0.09) 0 16px 8px,
     rgba(0, 0, 0, 0.07) 0 32px 16px;
 }
-.introducePic , .ImageContainer{
+
+.introducePic, .ImageContainer {
     margin-bottom: 50px;
 }
-.Paragraph{
-    font-family: IRANSansWeb_Light , Nunito-Light !important;
+
+.Paragraph {
+    font-family: IRANSansWeb_Light, Nunito-Light !important;
     text-align: justify;
     line-height: 2;
     margin-bottom: 20px;
 }
-.Paragraph span{
+
+.Paragraph span {
     color: #57aede;
-    font-family: IRANSansWeb_Bold ,Nunito-Bold !important;
+    font-family: IRANSansWeb_Bold, Nunito-Bold !important;
 }
-.titles{
-    font-family: IRANSansWeb_Bold ,Nunito-Bold !important;
+
+.titles {
+    font-family: IRANSansWeb_Bold, Nunito-Bold !important;
     margin-bottom: 15px;
     color: #6096B4;
 }
-.List li{
+
+.List li {
     margin: 10px 0;
 }
-.List li:first-child:before{
+
+.List li:first-child:before {
     content: "";
 }
-.List li:before{
+
+.List li:before {
     content: '\25CF';
     color: cornflowerblue;
-    margin:0 10px;
+    margin: 0 10px;
 }
-.ImageContainer{
+
+.ImageContainer {
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.09) 0 2px 1px, rgba(0, 0, 0, 0.09) 0 4px 2px,
     rgba(0, 0, 0, 0.09) 0 8px 4px, rgba(0, 0, 0, 0.09) 0 16px 8px,
@@ -47,4 +56,35 @@
     align-items: center;
     justify-content: center;
     height: 300px;
+}
+
+.NotFoundText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.NotFoundText h1 {
+    font-family: IRANSansWebFaNum_Bold, Nunito-Bold;
+    color: #0a53be;
+    font-size: 100px;
+}
+.NotFoundText p{
+    width: 300px;
+    text-align: center;
+}
+.NotFoundText a, .NotFoundText a:hover {
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    background-color: #fab835;
+    transform: scale(1);
+    margin-top: 20px;
+    transition: all ease 0.5s;
+}
+
+.NotFoundText a:active {
+    transform: scale(1.1);
 }

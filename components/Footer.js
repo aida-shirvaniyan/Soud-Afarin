@@ -37,32 +37,10 @@ class Footer extends HTMLElement {
     <div class="footerSince">
         کلیه حقوق این سایت متعلق به شرکت سودآفرین می باشد
     </div>
+    <!-- Front-end development and design by Aida Shirvaniyan-->
+    <!-- visit my website => https://aida-shirvaniyan.github.io -->
 </footer>
-<style>
-.Footer{
-    background-color: rgba(77,123,219,0.8);
-    padding: 80px 0 30px;
-}
-.footerColumn{
-    color: white;
-    text-align: center;
-    font-family: IRANSansWebFaNum , Nunito-Regular !important;
-}
-.footerColumn h3{
-    margin: 20px 0;
-}
-.footerColumn ul li{
-    margin-top: 15px;
-    cursor: pointer;
-}
-.footerSince{
-    text-align: center;
-    color: white;
-    border-top: #b6c1e5 1px solid;
-    margin: 20px 30px 0;
-    padding: 25px 0 0;
-}
-</style>
+
         `
     }
 }

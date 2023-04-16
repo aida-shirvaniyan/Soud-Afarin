@@ -3,9 +3,33 @@
   <component name="ChangeListManager">
     <list default="true" id="d508560f-ed07-4886-aa99-da5c7dc8ce75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles-list/English.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/English.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/Board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutBasketManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutBasketManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysisMethods.html" beforeDir="false" afterPath="$PROJECT_DIR$/analysisMethods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/companyAnalysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/TopButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/TopButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conflictOfInterest.html" beforeDir="false" afterPath="$PROJECT_DIR$/conflictOfInterest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/information.html" beforeDir="false" afterPath="$PROJECT_DIR$/information.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/introduce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/investmentProcedure.html" beforeDir="false" afterPath="$PROJECT_DIR$/investmentProcedure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/investmentStage.html" beforeDir="false" afterPath="$PROJECT_DIR$/investmentStage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/licenses.html" beforeDir="false" afterPath="$PROJECT_DIR$/licenses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/marketAnalysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/riskAssessment.html" beforeDir="false" afterPath="$PROJECT_DIR$/riskAssessment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securitiesAnalysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesAnalysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securitiesTypes.html" beforeDir="false" afterPath="$PROJECT_DIR$/securitiesTypes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles-list/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles-list/Persian.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/Persian.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles-list/other.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles-list/other.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wage.html" beforeDir="false" afterPath="$PROJECT_DIR$/wage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whySoudAfarin.html" beforeDir="false" afterPath="$PROJECT_DIR$/whySoudAfarin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets-list/fontawesome" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -106,7 +130,12 @@
       <workItem from="1680593807631" duration="354000" />
       <workItem from="1680766228596" duration="6517000" />
       <workItem from="1680941449250" duration="7692000" />
-      <workItem from="1681025423259" duration="682000" />
+      <workItem from="1681025423259" duration="1027000" />
+      <workItem from="1681026512149" duration="919000" />
+      <workItem from="1681110113151" duration="68000" />
+      <workItem from="1681209891884" duration="1899000" />
+      <workItem from="1681626382372" duration="1404000" />
+      <workItem from="1681633902994" duration="4772000" />
     </task>
     <servers />
   </component>

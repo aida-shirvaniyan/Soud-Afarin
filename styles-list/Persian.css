@@ -99,6 +99,12 @@ table {
     src: url('../assets-list/font/iransans/eot/IRANSansWeb(FaNum).eot');
     src: url('../assets-list/font/iransans/eot/IRANSansWeb(FaNum).eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('../assets-list/font/iransans/woff/IRANSansWeb(FaNum).woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('../assets-list/font/iransans/ttf/IRANSansWeb(FaNum).ttf') format('truetype');
 }
+@font-face {
+    font-family: IRANSansWebFaNum_Bold;
+    font-weight: bold;
+    src: url('../assets-list/font/iransans/eot/IRANSansWeb(FaNum)_Bold.eot');
+    src: url('../assets-list/font/iransans/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('../assets-list/font/iransans/woff/IRANSansWeb(FaNum)_Bold.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('../assets-list/font/iransans/ttf/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
+}
 
 *{
     box-sizing: border-box;
